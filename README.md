@@ -1,8 +1,6 @@
 # instagram_profile_pic
 
-A new Flutter project.
+A app for getiing instagram profile pics in the best quality
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# Wanna try it out
+Just go into build/app/outputs/apk/release/app-release.apk and install it on your android phone
